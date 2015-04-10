@@ -1,0 +1,6 @@
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppLecturaTecladoNuemros\AppLecturaTecladoNuemros\bin\Debug\AppLecturaTecladoNuemros.exe.config
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppLecturaTecladoNuemros\AppLecturaTecladoNuemros\bin\Debug\AppLecturaTecladoNuemros.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppLecturaTecladoNuemros\AppLecturaTecladoNuemros\bin\Debug\AppLecturaTecladoNuemros.pdb
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppLecturaTecladoNuemros\AppLecturaTecladoNuemros\obj\Debug\AppLecturaTecladoNuemros.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppLecturaTecladoNuemros\AppLecturaTecladoNuemros\obj\Debug\AppLecturaTecladoNuemros.exe
+c:\users\lab104bpc14\documents\visual studio 2012\Projects\AppLecturaTecladoNuemros\AppLecturaTecladoNuemros\obj\Debug\AppLecturaTecladoNuemros.pdb

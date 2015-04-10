@@ -1,0 +1,10 @@
+D:\Users\ADMINCMOVIL\Documents\Projects\AppSumayProducto\AppSumayProducto\bin\Debug\AppSumayProducto.exe
+D:\Users\ADMINCMOVIL\Documents\Projects\AppSumayProducto\AppSumayProducto\bin\Debug\AppSumayProducto.pdb
+D:\Users\ADMINCMOVIL\Documents\Projects\AppSumayProducto\AppSumayProducto\obj\x86\Debug\AppSumayProducto.csprojResolveAssemblyReference.cache
+D:\Users\ADMINCMOVIL\Documents\Projects\AppSumayProducto\AppSumayProducto\obj\x86\Debug\AppSumayProducto.exe
+D:\Users\ADMINCMOVIL\Documents\Projects\AppSumayProducto\AppSumayProducto\obj\x86\Debug\AppSumayProducto.pdb
+D:\modulo 3\AppSumayProducto\AppSumayProducto\obj\x86\Debug\AppSumayProducto.exe
+D:\modulo 3\AppSumayProducto\AppSumayProducto\obj\x86\Debug\AppSumayProducto.pdb
+D:\modulo 3\AppSumayProducto\AppSumayProducto\bin\Debug\AppSumayProducto.exe
+D:\modulo 3\AppSumayProducto\AppSumayProducto\bin\Debug\AppSumayProducto.pdb
+D:\modulo 3\AppSumayProducto\AppSumayProducto\obj\x86\Debug\AppSumayProducto.csprojResolveAssemblyReference.cache

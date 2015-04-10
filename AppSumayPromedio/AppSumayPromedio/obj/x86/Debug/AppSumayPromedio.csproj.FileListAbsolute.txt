@@ -1,0 +1,8 @@
+C:\Users\LAB1DPC9\Documents\Projects\AppSumayPromedio\AppSumayPromedio\bin\Debug\AppSumayPromedio.exe
+C:\Users\LAB1DPC9\Documents\Projects\AppSumayPromedio\AppSumayPromedio\bin\Debug\AppSumayPromedio.pdb
+C:\Users\LAB1DPC9\Documents\Projects\AppSumayPromedio\AppSumayPromedio\obj\x86\Debug\AppSumayPromedio.exe
+C:\Users\LAB1DPC9\Documents\Projects\AppSumayPromedio\AppSumayPromedio\obj\x86\Debug\AppSumayPromedio.pdb
+D:\modulo 3\AppSumayPromedio\AppSumayPromedio\obj\x86\Debug\AppSumayPromedio.exe
+D:\modulo 3\AppSumayPromedio\AppSumayPromedio\obj\x86\Debug\AppSumayPromedio.pdb
+D:\modulo 3\AppSumayPromedio\AppSumayPromedio\bin\Debug\AppSumayPromedio.exe
+D:\modulo 3\AppSumayPromedio\AppSumayPromedio\bin\Debug\AppSumayPromedio.pdb
